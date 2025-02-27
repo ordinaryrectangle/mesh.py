@@ -1,0 +1,15 @@
+{
+    "pythonVersion": "3.8",
+
+    "reportMissingTypeStubs": false,
+    "reportUnannotatedClassAttribute": false,
+    "reportAny": false,
+    "reportMissingParameterType": false,
+    "reportUnknownVariableType": false,
+    "reportUnknownArgumentType": false,
+    "reportUnknownMemberType": false,
+    "reportUnknownParameterType": false,
+    "reportExplicitAny": false,
+    "reportMissingTypeArgument": false,
+    "reportUnusedCallResult": false,
+}
